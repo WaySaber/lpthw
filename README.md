@@ -10,3 +10,4 @@ Key differences are:
 # Tooling
 * VSCode for editing and integration of Jupyter
 * Jupyter for access to Kernel and VSCode integration
+* Github for file management
